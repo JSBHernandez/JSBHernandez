@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Trying to be Fullstack Developer</h1>
+<h1 align="center">Trying to be a Fullstack Developer</h1>
 
 ###
 
