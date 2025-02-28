@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from 🇨🇴<br>- 🔭 CS and Software Engineer Student<br>- 📚 I'm currently learning to study<br>- ⚡ I like to write</p>
+<p align="left">I'm from 🇨🇴<br>- 🔭 CS and Software Engineer Student<br>- 📚 I'm currently learning to study<br>- ⚡ Like witting and a bunch of other things</p>
 
 ###
 
